@@ -63,7 +63,7 @@ Decision Making
 Pump / Fan / Lighting Control
 ```
 
- 🤖 Machine Learning
+ 🤖 Machine Learning (Implementing)
 
 One of the main improvements in this project is the use of Machine Learning.
 
